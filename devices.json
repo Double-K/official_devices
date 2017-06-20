@@ -639,5 +639,12 @@
     "maintainer_name": "Davide Della Maddalena (davidevinavil)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=2823824",
     "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aex-4-3-t3622909"   
-  }
+  },
+  {
+    "name": "ZenFone 2 Z551ML",
+    "brand": "Asus",
+    "codename": "Z00A",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=157095",
+    "maintainer_name": "Nhật Khánh"
+   }
  ]
